@@ -1,5 +1,4 @@
 import os
-import csv
 
 #Set path for file
 csvpath = os.path.join("PyPoll", "Resources", "election_data.csv")
